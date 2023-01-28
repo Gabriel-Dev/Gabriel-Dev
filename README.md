@@ -1,7 +1,5 @@
 ## Seja bem-vindo! Eu sou o Gabriel de Lima ✌️.
 
-#
-
 ### Estudante de Desenvolvimento web full stack com interesse pela área de Desenvolvimento Front-end. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldelimasantana/)
@@ -14,7 +12,7 @@
 
 
 ### Tecnologias que eu uso no meu dia a dia!
-#
+
 <div style="display: inline_block"> <br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white%22/%3E"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white%22/%3E"/>
