@@ -1,8 +1,9 @@
 ## Seja bem-vindo! Eu sou o Gabriel Santana ✌️.
 
-Estudante de Desenvolvimento Full Stack já formado em Desenvolvimento Front-End. Apaixonado por tecnologia estou sempre procurando melhorar minhas habilidades técnicas e aprender mais sobre a área de desenvolvimento. 
+Desenvolver Front End e Full Stack em formação. Experiência com tecnologias como JavaScript, CSS, HTML, API's, React.js e Typescript, tenho uma compreensão sólida da criação de aplicativos web atraentes, intuitivos e responsivos. 
+Apaixonado por tecnologia estou sempre procurando melhorar minhas habilidades técnicas e aprender mais sobre a área de desenvolvimento. 
 
-Estudando atualmente: PostgreSQL | NodeJS | ExpressJS | Python. 
+Estudando atualmente: PostgreSQL | NodeJS | ExpressJS
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldelimasantana/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabr.lima7@gmail.com)
