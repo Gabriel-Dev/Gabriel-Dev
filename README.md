@@ -36,8 +36,9 @@ Estudando atualmente: Next.js | MongoDB
 
 <ul>
     <li>
-        <p> FRB-Consultoria -- em desenvolvimento <p/>
-    <li/>
+        <a href="https://github.com/FRB-Consultoria/FRB-Website">  FRB-Consultoria -- em desenvolvimento </a>
+    </li>
+    <br/>
     <li>
         <a href="https://junior-jobs-eta.vercel.app/"> Projeto: Front End Junior Jobs</a>
     </li>
