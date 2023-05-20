@@ -1,9 +1,9 @@
 ## Seja bem-vindo! Eu sou o Gabriel Santana ✌️.
 
-Desenvolver Full Stack em formação. Experiência com tecnologias como JavaScript, CSS, HTML, API's, React.js e Typescript, PostgreSQL, NodeJS, ExpressJS, tenho uma compreensão sólida da criação de aplicativos web atraentes, intuitivos e responsivos. 
+Desenvolver Full Stack em formação. Experiência com tecnologias como JavaScript, CSS, HTML, API's, React.js e Typescript, PostgreSQL, NodeJS, ExpressJS, Python, Django. Tenho uma compreensão sólida da criação de aplicativos web atraentes, intuitivos e responsivos. 
 Apaixonado por tecnologia estou sempre procurando melhorar minhas habilidades técnicas e aprender mais sobre a área de desenvolvimento. 
 
-Estudando atualmente: Python | Django | MongoDB
+Estudando atualmente: Next.js | MongoDB
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldelimasantana/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabr.lima7@gmail.com)
@@ -35,6 +35,9 @@ Estudando atualmente: Python | Django | MongoDB
 ### Últimos Projetos:
 
 <ul>
+    <li>
+        <p> FRB-Consultoria -- em desenvolvimento <p/>
+    <li/>
     <li>
         <a href="https://junior-jobs-eta.vercel.app/"> Projeto: Front End Junior Jobs</a>
     </li>
