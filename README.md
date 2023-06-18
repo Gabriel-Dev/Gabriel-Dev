@@ -5,14 +5,11 @@ Apaixonado por tecnologia estou sempre procurando melhorar minhas habilidades t√
 
 Estudando atualmente: Next.js | MongoDB
 
+[![Portifolio](https://gabriel-santana.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldelimasantana/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabr.lima7@gmail.com)
 
-
 <br/>
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev&show_icons=true&theme=dracula)
-
 
 ## Tecnologias que eu uso no meu dia a dia!
 
@@ -36,7 +33,7 @@ Estudando atualmente: Next.js | MongoDB
 
 <ul>
     <li>
-        <a href="https://github.com/FRB-Consultoria/FRB-Website">  FRB-Consultoria -- em desenvolvimento </a>
+        <a href="https://frbconsultoria.com.br/">  FRB-Consultoria -- em desenvolvimento </a>
     </li>
     <br/>
     <li>
@@ -49,10 +46,6 @@ Estudando atualmente: Next.js | MongoDB
     <br/>
     <li>
         <a href="https://kenziehub-rose-zeta.vercel.app/login"> Projeto: KenzieHub</a>
-    </li>
-    <br/>
-    <li>
-        <a href="https://nukenzie-sandy.vercel.app/"> Projeto: NuKenzie </a>
     </li>
     <br/>
 </ul>
