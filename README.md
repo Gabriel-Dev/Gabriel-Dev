@@ -13,7 +13,7 @@ Estudando atualmente: Java | PHP
 
 <ul>
     <li>
-        <a href="https://frbconsultoria.com.br/">  FRB-Consultoria -- em desenvolvimento </a>
+        <a href="https://frbconsultoria.com.br/">  FRB-Consultoria </a>
     </li>
     <br/>
      <li>
