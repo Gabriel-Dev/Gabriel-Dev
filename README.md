@@ -23,9 +23,4 @@ Estudando atualmente: Java | PHP
     <li>
         <a href="https://junior-jobs-eta.vercel.app/"> Projeto: Front End Junior Jobs</a>
     </li>
-    <br/>
-    <li>
-        <a href="https://hamburgueria-three-bice.vercel.app/login"> Projeto: Hamburgueria V2</a>
-    </li>
-    <br/>
 </ul>
