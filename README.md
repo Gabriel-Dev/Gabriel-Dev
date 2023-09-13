@@ -5,7 +5,7 @@ Apaixonado por tecnologia estou sempre procurando melhorar minhas habilidades t√
 
 Estudando atualmente: Java | PHP
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldelimasantana/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profilegabrielsantana/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabr.lima7@gmail.com)
 
 <br/>
