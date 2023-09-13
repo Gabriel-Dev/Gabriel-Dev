@@ -1,7 +1,8 @@
 ## Seja bem-vindo! Eu sou o Gabriel Santana ✌️.
 
-Desenvolver Full Stack em formação. Experiência com tecnologias como JavaScript, CSS, HTML, API's, React.js e Typescript, PostgreSQL, NodeJS, ExpressJS, Python, Django. Tenho uma compreensão sólida da criação de aplicativos web atraentes, intuitivos e responsivos. 
-Apaixonado por tecnologia estou sempre procurando melhorar minhas habilidades técnicas e aprender mais sobre a área de desenvolvimento. 
+Desenvolvedor Full Stack apaixonado por tecnologia e em desenvolvimento de projetos. Ver ideias se transformando em realidade é uma das coisas que mais me motivam. Sempre fico animado para embarcar em novos projetos e explorar diferentes tecnologias. Meu objetivo é criar soluções inovadoras que tragam resultados, valor e impacto positivo para as pessoas.
+
+Tenho experiência com tecnologias como JavaScript, Typescript, CSS, HTML, API's, React, PostgreSQL, Node, Express, TypeORM, Python, Django. Estou sempre procurando melhorar minhas habilidades técnicas e aprender mais sobre a área de desenvolvimento.
 
 Estudando atualmente: Java | PHP
 
